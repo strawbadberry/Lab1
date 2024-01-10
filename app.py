@@ -29,10 +29,10 @@ with col1:
 with col2:
     st.markdown(
         """
-    # Ian Chen (He/Him)
+    # Leah Lan (She/Her)
                 
-    - Instructor at [Lighthouse Labs](https://www.lighthouselabs.ca/)
-    - Engineer at [Clio](https://www.clio.com/)
+    - UX designer
+    
     """
     )
 
